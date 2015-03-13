@@ -1,0 +1,1 @@
+Unity Editor Cubemap Toolkit for HDR cubemap and skymap generation.
